@@ -1,2 +1,4 @@
 # A001
-Descr
+Portfolio <br>
+<b> สวัสดี </b> <br>
+เรื่องราวของฉัน [about.md]
